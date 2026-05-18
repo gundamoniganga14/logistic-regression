@@ -108,4 +108,3 @@ if probability > 0.5:
     st.write("The customer is likely to churn.")
 else:
     st.write("The customer is not likely to churn.")
-
